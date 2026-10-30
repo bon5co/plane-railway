@@ -1,5 +1,9 @@
 # plane-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/plane-or-just-updated-jira-and-linear-al?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Plane template](https://railway.com/deploy/plane-or-just-updated-jira-and-linear-al?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway wrapper image for [Plane](https://plane.so), the open-source
 Jira/Linear alternative, built on the official all-in-one community image
 (`makeplane/plane-aio-community`) pinned by digest to v1.4.1.
