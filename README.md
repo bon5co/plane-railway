@@ -6,7 +6,7 @@
 
 Railway wrapper image for [Plane](https://plane.so), the open-source
 Jira/Linear alternative, built on the official all-in-one community image
-(`makeplane/plane-aio-community`) pinned by digest to v1.4.1.
+(`makeplane/plane-aio-community`) pinned by digest to v1.4.3.
 
 ## What this adds over deploying the stock image
 
