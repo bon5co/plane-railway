@@ -1,7 +1,7 @@
 # Wrapper over Plane's all-in-one community image, pinned by digest.
 # Adds: admin seeded before the public port opens (closes the anonymous
 # instance-admin claim), signup disabled, telemetry off, secrets stable.
-FROM makeplane/plane-aio-community:v1.4.3@sha256:07ead622af2cd7ae200845a3a37076ee68f36c529e281309dd7801ad1dd5a009
+FROM makeplane/plane-aio-community:v1.5.0@sha256:16a2680cc7ab0c1ef86396905563816246692e32302154cb2a4f335276ac03b0
 
 COPY railway-entrypoint.sh /railway-entrypoint.sh
 COPY seed_admin.py /app/seed_admin.py
